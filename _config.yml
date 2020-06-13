@@ -2,9 +2,8 @@ title:                A Scorpio's Life
 email:              nikunjj46@gmail.com
 description:        Nikunj Jain's blog about Life, Universe and Everything
 author:             Nikunj Jain
-baseurl:            "/"
-url:                "https://rock-nik.github.io"
-host: 0.0.0.0
+baseurl:            "/rock-nik.github.io"
+url:                "rock-nik.github.io"
 # Social Profiles
 twitter_username:   Nikunjj95
 github_username:    rock-nik
