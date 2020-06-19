@@ -10,7 +10,8 @@ github_username:    ascorpioslife
 facebook_username:  Nikunjjain95
 linkedin_username: nikunjjain95
 instagram_username: nikunj_jain_nj
-
+#formspree settings
+formspree_form_id: xvowqrrl
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-169321689-1 # out your google-analytics code
 
